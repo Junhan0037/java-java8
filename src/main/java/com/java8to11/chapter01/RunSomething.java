@@ -1,4 +1,4 @@
-package com.java8to11;
+package com.java8to11.chapter01;
 
 @FunctionalInterface
 public interface RunSomething {
