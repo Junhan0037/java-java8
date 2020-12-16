@@ -13,5 +13,6 @@
 
 #### 1. [함수형 인터페이스와 람다](https://github.com/Junhan0037/java-java8/pull/1)
 #### 2. [인터페이스의 변화](https://github.com/Junhan0037/java-java8/pull/2)
+#### 3. [Stream](https://github.com/Junhan0037/java-java8/pull/3)
 
 해당 repo는 [더 자바, Java 8 - 백기선](https://www.inflearn.com/course/the-java-java8) 해당 강의를 듣고 정리한 REPO 입니다.
