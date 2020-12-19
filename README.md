@@ -16,5 +16,7 @@
 #### 3. [Stream](https://github.com/Junhan0037/java-java8/pull/3)
 #### 4. [Optional](https://github.com/Junhan0037/java-java8/pull/4)
 #### 5. [Date와 Time API](https://github.com/Junhan0037/java-java8/pull/5)
+#### 6. [CompletableFuture](https://github.com/Junhan0037/java-java8/pull/6)
+#### 7. [그밖에](https://github.com/Junhan0037/java-java8/pull/7)
 
 해당 repo는 [더 자바, Java 8 - 백기선](https://www.inflearn.com/course/the-java-java8) 해당 강의를 듣고 정리한 REPO 입니다.
